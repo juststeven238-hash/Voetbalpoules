@@ -1,4 +1,4 @@
-const API_KEY = "JOUW_FOOTBALL_DATA_API_KEY"; // https://www.football-data.org/client/register
+const API_KEY = "0217fcfb98e0454ab646da8ecd80ed4d";
 const BASE    = "https://api.football-data.org/v4";
 
 async function apiFetch(path) {
