@@ -135,7 +135,7 @@ export default function App() {
   const [adminDivisie, setAdminDivisie] = useState(DIVISIES[0].id);
   const [adminBusy, setAdminBusy]       = useState(false);
   const [adminWedstrijden, setAdminWedstrijden] = useState([]);
-  const ADMIN_UIDS = ["JOUW_ADMIN_UID"];
+  const ADMIN_UIDS = ["rLxt8P5I2BXpBq1ZvZykG7QfTzn1"];
 
   // Auth
   useEffect(() => {
